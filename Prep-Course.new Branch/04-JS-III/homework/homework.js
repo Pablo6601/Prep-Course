@@ -247,8 +247,6 @@ function continueStatement(numero) {
     newArray.push(cuenta);
   }
   return newArray;
-
-  
 }
 
 
