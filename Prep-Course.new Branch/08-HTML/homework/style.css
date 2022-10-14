@@ -1,0 +1,17 @@
+body{
+  background-color:silver ;
+}
+.div{
+  margin :auto
+}
+#thirdDiv {
+  border-width: 600px;
+  border-width: 500px;
+  padding: 50px;
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
+}
+#spanID {
+  font-size: 18px;
+}    
